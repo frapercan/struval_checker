@@ -1,0 +1,31 @@
+
+       ****************************
+      *                          *
+     *    StruVal V3 client     *
+    *                          *
+   ****************************
+
+
+
+
+Start time: 12:36:18,28
+Preparing client...
+Using http compression!
+{returnCode=0, errorsFound=0, moreError=No more error, version=8.4.5.1, dsdVersion=ESC01:Marriages by relationship with the previous residence of the spouses according to municipality of residence of the marriage.:1.0}
+Validation result: {returnCode=0, errorsFound=0, moreError=No more error, version=8.4.5.1, dsdVersion=ESC01:Marriages by relationship with the previous residence of the spouses according to municipality of residence of the marriage.:1.0}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+STRUCTURAL VALIDATION REPORT
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0 Error(s) found 
+
+Errors per type:
+
+
+SDMX Converter version: 8.4.5.1
+Generated on: 24/03/2022 12:36:21
+Structure information: ESC01:Marriages by relationship with the previous residence of the spouses according to municipality of residence of the marriage.:1.0
+
+
+
+End time: 12:36:21,81
